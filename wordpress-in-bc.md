@@ -4,7 +4,7 @@
 - DRAFT updated: Jan 24, 2023 -
 
 This list is being put together as a resource for an up coming 'microcourse' at BCCampus. Check it out at 
-URL: [https://bccampus.ca/event/flo-microcourse-please-share-with-the-class-creating-online-gallery-and-portfolio-spaces/](FLO MicroCourse: Please Share with the Class — Creating Online Gallery and Portfolio Spaces)
+URL: [ FLO MicroCourse: Please Share with the Class — Creating Online Gallery and Portfolio Spaces](https://bccampus.ca/event/flo-microcourse-please-share-with-the-class-creating-online-gallery-and-portfolio-spaces/ )
 
 ---
 
