@@ -16,7 +16,6 @@ If you have any concerns or feedback about the material or activities, please us
 In this course participants will
 
 
-
 * Examine web tools for sharing media including [Wordpress](https://wordpress.com/), [Notion](https://www.notion.so/), and [Github (pages)](https://github.com/).
 * Contribute your media collection to these platforms, to see. 
 * Develop a website to showcase your media collection, a portfolio.
