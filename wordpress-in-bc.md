@@ -6,9 +6,8 @@
 This list is being put together as a resource for an up coming 'microcourse' at BCCampus. Check it out at 
 URL: [ FLO MicroCourse: Please Share with the Class — Creating Online Gallery and Portfolio Spaces](https://bccampus.ca/event/flo-microcourse-please-share-with-the-class-creating-online-gallery-and-portfolio-spaces/ )
 
-Please contact [Jason Toal] if you have any contributions you would like to share. 😀
+Please contact [Jason Toal](mailto:jason.toal@gmail.com) if you have any contributions you would like to share. 😀
 
-[Jason Toal](mailto:jason.toal@gmail.com)
 ---
 
 
