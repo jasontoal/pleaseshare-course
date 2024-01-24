@@ -7,8 +7,8 @@
 
 #### OpenETC:
 
-URL:[ https://opened.ca/wordpress/ \
-](https://pressbooks.bccampus.ca/)Description: OpenETC offers WordPress-powered sites with a curated collection of plugins, widgets, and themes and also allows you to create a new site from WordPress templates.
+URL:[ https://opened.ca/wordpress/](https://pressbooks.bccampus.ca/)
+Description: OpenETC offers WordPress-powered sites with a curated collection of plugins, widgets, and themes and also allows you to create a new site from WordPress templates.
 
 
 ---
@@ -16,8 +16,8 @@ URL:[ https://opened.ca/wordpress/ \
 
 #### BCcampus - Pressbooks:
 
-URL:[ https://pressbooks.bccampus.ca/ \
-](https://pressbooks.bccampus.ca/)Description: BCcampus offers Pressbooks, a web-based book publishing platform built on WordPress, with hosting services in Canada. It's commonly used for creating open educational resources (OER) and textbooks.
+URL:[ https://pressbooks.bccampus.ca/](https://pressbooks.bccampus.ca/)
+Description: BCcampus offers Pressbooks, a web-based book publishing platform built on WordPress, with hosting services in Canada. It's commonly used for creating open educational resources (OER) and textbooks.
 
 
 ---
@@ -25,8 +25,8 @@ URL:[ https://pressbooks.bccampus.ca/ \
 
 #### University of British Columbia (UBC) Blogs:
 
-URL:[ https://blogs.ubc.ca/ \
-](https://blogs.ubc.ca/)Description: UBC Blogs is powered by WordPress and is hosted on Canadian servers. It provides faculty, staff, and students with a platform to create blogs for courses, research, and personal use.
+URL:[ https://blogs.ubc.ca/](https://blogs.ubc.ca/)
+Description: UBC Blogs is powered by WordPress and is hosted on Canadian servers. It provides faculty, staff, and students with a platform to create blogs for courses, research, and personal use.
 
 
 ---
@@ -34,7 +34,7 @@ URL:[ https://blogs.ubc.ca/ \
 
 #### UBC Arts ePorfolio:
 
-URL: [https://ubcarts.ca/](https://ubcarts.ca/) \
+URL: [https://ubcarts.ca/](https://ubcarts.ca/)
 Description: From projects and papers to travels and volunteer work, Arts ePortfolios help you collect, curate, and share your learning.
 
 
@@ -43,8 +43,8 @@ Description: From projects and papers to travels and volunteer work, Arts ePortf
 
 #### University of Victoria - UVicSpaces:
 
-URL:[ https://uvicspaces.com/ \
-](https://uvicspaces.com/)Description: UVicSpaces is a WordPress-based platform hosted in Canada, offering faculty and students a space for creating websites, blogs, and portfolios.
+URL:[ https://uvicspaces.com/](https://uvicspaces.com/)
+Description: UVicSpaces is a WordPress-based platform hosted in Canada, offering faculty and students a space for creating websites, blogs, and portfolios.
 
 
 ---
@@ -52,8 +52,8 @@ URL:[ https://uvicspaces.com/ \
 
 #### Thompson Rivers University - TRUBOX
 
-URL:[ https://trubox.ca/ \
-](https://trubox.ca/)Description: WordPress is one of the world’s most popular and powerful open source content management systems. LT&I works with the TRU community to support the creation of WordPress websites, blogs, portfolios and apps.
+URL:[ https://trubox.ca/](https://trubox.ca/)
+Description: WordPress is one of the world’s most popular and powerful open source content management systems. LT&I works with the TRU community to support the creation of WordPress websites, blogs, portfolios and apps.
 
 
 ---
@@ -62,5 +62,4 @@ URL:[ https://trubox.ca/ \
 #### Royal Roads University - WebSpace
 
 URL: [https://webspace.royalroads.ca/](https://webspace.royalroads.ca/) 
-
 Description: WebSpace is based on WordPress, an open source content management system. As the WordPress framework is so adaptable it can be used to run blogs, websites, eportfolios or reflective spaces depending on how you set it up.
