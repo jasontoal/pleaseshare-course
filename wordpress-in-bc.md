@@ -8,6 +8,7 @@ URL: [ FLO MicroCourse: Please Share with the Class — Creating Online Gallery 
 
 Please contact [Jason Toal] if you have any contributions you would like to share. 😀
 
+[Jason Toal](mailto:jason.toal@gmail.com)
 ---
 
 
