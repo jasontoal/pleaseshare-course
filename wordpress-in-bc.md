@@ -38,12 +38,9 @@ URL:[ https://blogs.ubc.ca/](https://blogs.ubc.ca/)
 Description: UBC Blogs is powered by WordPress and is hosted on Canadian servers. It provides faculty, staff, and students with a platform to create blogs for courses, research, and personal use.
 
 
----
-
-
 #### UBC Arts ePorfolio
 
-URL: [https://ubcarts.ca/](https://ubcarts.ca/)
+URL: [ https://ubcarts.ca/](https://ubcarts.ca/)
 
 Description: From projects and papers to travels and volunteer work, Arts ePortfolios help you collect, curate, and share your learning.
 
@@ -53,7 +50,7 @@ Description: From projects and papers to travels and volunteer work, Arts ePortf
 
 #### University of Victoria - UVicSpaces
 
-URL:[https://uvicspaces.com/](https://uvicspaces.com/)
+URL:[ https://uvicspaces.com/](https://uvicspaces.com/)
 
 Description: UVicSpaces is a WordPress-based platform hosted in Canada, offering faculty and students a space for creating websites, blogs, and portfolios.
 
@@ -61,9 +58,15 @@ Description: UVicSpaces is a WordPress-based platform hosted in Canada, offering
 ---
 
 
-#### Thompson Rivers University - TRUBOX
+#### Thompson Rivers University (TRU) - TRUBOX
 
 URL:[ https://trubox.ca/](https://trubox.ca/)
+
+Description: WordPress is one of the world’s most popular and powerful open source content management systems. LT&I works with the TRU community to support the creation of WordPress websites, blogs, portfolios and apps.
+
+#### TRU - Open press
+
+URL:[ https://trubox.ca/](https://openpress.trubox.ca/)
 
 Description: WordPress is one of the world’s most popular and powerful open source content management systems. LT&I works with the TRU community to support the creation of WordPress websites, blogs, portfolios and apps.
 
@@ -73,6 +76,6 @@ Description: WordPress is one of the world’s most popular and powerful open so
 
 #### Royal Roads University - WebSpace
 
-URL: [https://webspace.royalroads.ca/](https://webspace.royalroads.ca/) 
+URL: [ https://webspace.royalroads.ca/](https://webspace.royalroads.ca/) 
 
 Description: WebSpace is based on WordPress, an open source content management system. As the WordPress framework is so adaptable it can be used to run blogs, websites, eportfolios or reflective spaces depending on how you set it up.
